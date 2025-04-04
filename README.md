@@ -1,27 +1,6 @@
 # Solution for Homework #5: Design Patterns
 Implementation of Proxy and Flyweight Patterns
 
-## Project Structure
-src/
-└── main/
-└── java/
-├── media/
-│ └── cache/
-│ └── proxy/
-│ ├── VisualAsset.java
-│ ├── HeavyVisual.java
-│ ├── AssetPlaceholder.java
-│ └── AssetLoaderDemo.java
-└── geo/
-└── render/
-└── optimizer/
-├── PinStyle.java
-├── CorePinStyle.java
-├── PinStyleRegistry.java
-├── SmartPin.java
-└── MapEngineDemo.java
-
-Copy
 
 ## Key Features
 
